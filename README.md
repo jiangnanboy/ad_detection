@@ -2,6 +2,8 @@
 广告语检测
 
 ### step
+训练和转换见https://github.com/jiangnanboy/ad_detect_textcnn
+
 1.利用textcnn训练一个二分类，0是正常，1是广告，语料见resources下的train.csv与test.csv
 
 2.将textcnn模型转为onnx
